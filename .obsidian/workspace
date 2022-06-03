@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "4ba4a443fb178e65",
+    "type": "split",
+    "children": [
+      {
+        "id": "21703103bd1da0f7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "nvim/01.常用命令.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2be5ae72a2ff3e29",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdcbc176f9267304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7095dae558eddc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66a3b59380006a43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "ea54b71a696c822d",
+    "type": "split",
+    "children": [
+      {
+        "id": "caa631e08b4458ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267a06b9f2cae52a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nvim/01.常用命令.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "55d97e250b1bc099",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2595dad3932626c5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "aabd6b089eca2699",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5bed73e635a37bab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nvim/01.常用命令.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "active": "21703103bd1da0f7",
+  "lastOpenFiles": [
+    "nvim/01.常用命令.md",
+    "nvim/02.NERDTree.md",
+    "Attachment/Pasted image 20220418094052.png",
+    "Attachment/Pasted image 20220418094455.png",
+    "Attachment/Pasted image 20220418094609.png",
+    "Attachment/Pasted image 20220528203258.png",
+    "typescript/命令行.md",
+    "typescript/React Typescript【1】.md",
+    "Attachment/Pasted image 20220314131519.png",
+    "vim/01.命令.md"
+  ]
+}
