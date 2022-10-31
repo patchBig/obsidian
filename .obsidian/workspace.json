@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "21703103bd1da0f7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily/2022-10-13.md",
-            "mode": "source",
-            "source": false
+        "id": "da8f43b060217b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0667f686116fa817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flag/WebAssembly 入门课.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6785664c14f48176",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachment/Pasted image 20221023163309.png"
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +47,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -49,11 +67,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 200
   },
   "right": {
     "id": "ea54b71a696c822d",
@@ -69,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-13.md",
+                "file": "flag/WebAssembly 入门课.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-13.md"
+                "file": "flag/WebAssembly 入门课.md"
               }
             }
           }
@@ -122,19 +141,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 200,
+    "collapsed": true
   },
-  "active": "21703103bd1da0f7",
+  "active": "66a3b59380006a43",
   "lastOpenFiles": [
-    "flag/书籍.md",
-    "flag/前端智能化.md",
-    "flag/程序员.md",
+    "Attachment/Pasted image 20221023164411.png",
+    "flag/WebAssembly 入门课.md",
     "nvim/02.NERDTree.md",
-    "nvim/01.常用命令.md",
-    "Attachment/Pasted image 20220418094052.png",
-    "Attachment/Pasted image 20220418094455.png",
+    "Attachment/Pasted image 20221023163309.png",
+    "Attachment/Pasted image 20220314131609.png",
+    "Attachment/Pasted image 20220418094045.png",
+    "Attachment/Pasted image 20220418094227.png",
     "Attachment/Pasted image 20220418094609.png",
     "Attachment/Pasted image 20220528203258.png",
-    "typescript/命令行.md"
+    "Attachment/Pasted image 20221023160312.png"
   ]
 }
