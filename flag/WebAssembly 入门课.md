@@ -115,5 +115,25 @@ Code Section 存放的则是每个函数的具体定义，也就是实现部分
 用于组成该数字值的最低有效数字位与最高有效数字为，分别称为这个数据的
 “最低有效位（LSB）”和“最高有效位（MSB）”
 
-### 06 | WAT
+## 08 | API
+
+### WASM 浏览器加载流程
+
+![[Pasted image 20221101094023.png]]
+
+1. Fetch 阶段，将被使用到的 Wasm 二进制模块从网络上的某个位置通过 HTTP 请求的方式加载到浏览器中
+2. Compile 阶段，将二进制代码编译为可执行的平台相关代码和数据结构，可以在 Worker 线程中进行分发，以让 Worker 线程使用这些模块，防止主线程被阻塞
+3. Instantiate 阶段，将 Wasm 模块规定需要从外界宿主环境中导入的资源，导入到正在实例化中的模块，以完成最后的实例化过程
+4. Call 阶段，直接通过上一阶段生成的动态 Wasm 模块对象，来调用从 Wasm 模块内导出方法。
+
+### Wasm JavaScript API
+
+#### 模块对象
+
+- Compile 编译 -> WebAssembly.Module
+- Instantiate 实例化 -> WebAssembly.Instance
+
+#### 导入对象
+
+Web 浏览器作为 Wasm 模块运行时的一个宿主环境，通过 JavaScript 提供了可以被导入到 Wasm 模块中使用的数据类型
 
