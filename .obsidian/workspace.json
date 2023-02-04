@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-01-16.md",
+                "file": "notes/chrome keyboard shortcuts for DevTools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fda7e881018d32a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/记 C++ 转 WebAssembly 实践.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-01-16.md",
+                "file": "notes/记 C++ 转 WebAssembly 实践.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-01-16.md"
+                "file": "notes/记 C++ 转 WebAssembly 实践.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dfff55fac96bfd71",
+  "active": "fda7e881018d32a9",
   "lastOpenFiles": [
-    "Attachment/Pasted image 20221023163309.png",
-    "daily/2023-01-16.md",
-    "book/《程序员的数学基础课》.md",
     "notes/chrome keyboard shortcuts for DevTools.md",
+    "daily/2023-01-16.md",
+    "Attachment/Pasted image 20221023163309.png",
+    "book/《程序员的数学基础课》.md",
     "daily/2022-12-10.md",
     "daily/2022-12-07.md",
     "daily/2022-12-06.md",
